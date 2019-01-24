@@ -1,0 +1,23 @@
+# Temp directory
+__pycache__
+__pycache__/*
+.vscode
+.vscode/*
+build
+build/*
+dist
+dist/*
+.ipynb_checkpoints
+.ipynb_checkpoints/*
+
+
+# Data file
+*.npy
+*.DCM
+*.dcm
+*.jpg
+*.png
+*.tar
+*.mat
+*.raw
+*.txt
