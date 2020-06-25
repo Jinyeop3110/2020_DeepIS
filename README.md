@@ -18,22 +18,11 @@ Tomocube AI Projects
         - weighted random sampler
 
 - Network
-    - Unet
+    - Unet for
     - Unet varianced(multi-attention and etc)
     - FusionNet
     - Deeplab V3+
     - Resnet
 
-- Slack Alarm
-    - Running only model train
-
-# TODO
-
-- Pretrained model weight
-
-- Callback
-    - early_stop
-
-- Implemented models in other tasks
-
-- 2D / 3D version models
+- Pre-trained weights
+    -
